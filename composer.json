@@ -1,0 +1,20 @@
+{
+    "name": "jorzelalves/busca-cep",
+    "description": "SDK para busca de CEP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jorzelalves\\BuscaCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jorzel Alves",
+            "email": "jorzelalves@jorzelalves.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
